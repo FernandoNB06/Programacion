@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\RegistroVentas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\RegistroVentas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Stock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Stock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Motocicleta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Motocicleta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Camioneta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Camioneta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoDeportivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\AutoDeportivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoNoDeportivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\AutoNoDeportivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Venta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Venta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\RegistroVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\RegistroVentas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Motocicleta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Motocicleta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Camioneta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Camioneta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoNoDeportivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\AutoNoDeportivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoDeportivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\AutoDeportivo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Auto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Auto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF125F48-4CB3-4944-9162-BA42C1C27406}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stock.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Stock.cpp",
+              "RelativeDocumentMoniker": "Project1\\Stock.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Stock.cpp",
+              "RelativeToolTip": "Project1\\Stock.cpp",
+              "ViewState": "AgIAADAAAACAZmZmZmYkwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T15:53:57.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoDeportivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoDeportivo.cpp",
+              "RelativeDocumentMoniker": "Project1\\AutoDeportivo.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoDeportivo.cpp",
+              "RelativeToolTip": "Project1\\AutoDeportivo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T14:23:32.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoNoDeportivo.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoNoDeportivo.cpp",
+              "RelativeDocumentMoniker": "Project1\\AutoNoDeportivo.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoNoDeportivo.cpp",
+              "RelativeToolTip": "Project1\\AutoNoDeportivo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T14:24:51.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camioneta.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Camioneta.cpp",
+              "RelativeDocumentMoniker": "Project1\\Camioneta.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Camioneta.cpp",
+              "RelativeToolTip": "Project1\\Camioneta.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:25:08.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T14:33:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroVentas.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\RegistroVentas.cpp",
+              "RelativeDocumentMoniker": "Project1\\RegistroVentas.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\RegistroVentas.cpp",
+              "RelativeToolTip": "Project1\\RegistroVentas.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T14:43:49.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auto.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Auto.cpp",
+              "RelativeDocumentMoniker": "Project1\\Auto.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Auto.cpp",
+              "RelativeToolTip": "Project1\\Auto.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T06:58:24.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Stock.h",
+              "RelativeDocumentMoniker": "Project1\\Stock.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Stock.h",
+              "RelativeToolTip": "Project1\\Stock.h",
+              "ViewState": "AgIAAAMAAAA4MzMzMzMrwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T15:52:37.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Venta.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Venta.h",
+              "RelativeDocumentMoniker": "Project1\\Venta.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Venta.h",
+              "RelativeToolTip": "Project1\\Venta.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T06:59:45.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Motocicleta.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Motocicleta.cpp",
+              "RelativeDocumentMoniker": "Project1\\Motocicleta.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Motocicleta.cpp",
+              "RelativeToolTip": "Project1\\Motocicleta.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:28:31.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistroVentas.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\RegistroVentas.h",
+              "RelativeDocumentMoniker": "Project1\\RegistroVentas.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\RegistroVentas.h",
+              "RelativeToolTip": "Project1\\RegistroVentas.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T14:43:21.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Motocicleta.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Motocicleta.h",
+              "RelativeDocumentMoniker": "Project1\\Motocicleta.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Motocicleta.h",
+              "RelativeToolTip": "Project1\\Motocicleta.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T06:23:43.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Camioneta.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Camioneta.h",
+              "RelativeDocumentMoniker": "Project1\\Camioneta.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Camioneta.h",
+              "RelativeToolTip": "Project1\\Camioneta.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T06:25:56.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoNoDeportivo.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoNoDeportivo.h",
+              "RelativeDocumentMoniker": "Project1\\AutoNoDeportivo.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoNoDeportivo.h",
+              "RelativeToolTip": "Project1\\AutoNoDeportivo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T14:24:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoDeportivo.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoDeportivo.h",
+              "RelativeDocumentMoniker": "Project1\\AutoDeportivo.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\AutoDeportivo.h",
+              "RelativeToolTip": "Project1\\AutoDeportivo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T14:23:08.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Auto.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Auto.h",
+              "RelativeDocumentMoniker": "Project1\\Auto.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Auto.h",
+              "RelativeToolTip": "Project1\\Auto.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T06:22:05.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vehiculo.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Vehiculo.cpp",
+              "RelativeDocumentMoniker": "Project1\\Vehiculo.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\polimorfismo\\Concesionaria\\Project1\\Project1\\Vehiculo.cpp",
+              "RelativeToolTip": "Project1\\Vehiculo.cpp",
+              "ViewState": "AgIAABEAAAAAMzMzMzMbwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T06:24:33.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso de JavaScript - Módulos 1, 2 y 3</title>
+</head>
+<body>
+    <h1>Mi página de práctica de JavaScript</h1>
+
+    <script>
+        //--------------------------------
+        // MÓDULO 1: Introducción
+        //--------------------------------
+        console.log("Hola mundo"); // Mensaje en consola
+
+        //--------------------------------
+        // MÓDULO 2: Primeros pasos
+        //--------------------------------
+
+        // Declaración de variables
+        let nombre = "Fernando";
+        let edad = 23;
+        let esEstudiante = true;
+
+        // Suma de dos números
+        let numero1 = 1;
+        let numero2 = 2;
+        let resultadoSuma = numero1 + numero2;
+        console.log('Resultado de la suma:', resultadoSuma);
+
+        // Comparación de dos números
+        let mayor = numero2 > numero1;
+        console.log('¿numero2 es mayor que numero1?:', mayor);
+
+        // Array de frutas
+        let frutas = ['manzana', 'naranja', 'pera'];
+        console.log('Frutas:', frutas);
+
+        // Objeto de celular
+        let objeto = { marca: 'Samsung', modelo: '123' };
+        console.log('Objeto celular:', objeto);
+
+        //--------------------------------
+        // MÓDULO 3: Control de flujo
+        //--------------------------------
+
+        // Ejercicio 1: Condicional if-else
+        let edad2 = 23;
+        if (edad2 < 18) {
+            console.log("Eres menor de edad");
+        } else {
+            console.log("Eres mayor de edad");
+        }
+
+        // Ejercicio 2: Switch para días de la semana
+        let numeroDia = 1; // Puedes cambiar este número
+        switch (numeroDia) {
+            case 1:
+                console.log("Lunes");
+                break;
+            case 2:
+                console.log("Martes");
+                break;
+            case 3:
+                console.log("Miércoles");
+                break;
+            case 4:
+                console.log("Jueves");
+                break;
+            case 5:
+                console.log("Viernes");
+                break;
+            case 6:
+                console.log("Sábado");
+                break;
+            case 7:
+                console.log("Domingo");
+                break;
+            default:
+                console.log("Día no válido");
+                break;
+        }
+
+        // Ejercicio 3: For del 1 al 10
+        for (let i = 1; i <= 10; i++) {
+            console.log('For:', i);
+        }
+
+        // Ejercicio 4: While del 5 al 1
+        let a = 5;
+        while (a >= 1) {
+            console.log('While:', a);
+            a--;
+        }
+
+        // Ejercicio 5: For del 0 al 5, saltando el 3
+        for (let i = 0; i <= 5; i++) {
+            if (i === 3) {
+                continue; // Salta el número 3
+            }
+            console.log('For (con continue):', i);
+        }
+
+    </script>
+</body>
+</html>
