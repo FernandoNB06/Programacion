@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Curso de JavaScript - Módulos 1, 2 y 3</title>
+    <title>Curso de JavaScript - Módulos 1, 2, 3, 4 y 5</title>
 </head>
 <body>
     <h1>Mi página de práctica de JavaScript</h1>
@@ -102,42 +102,87 @@
             console.log('For (con continue):', i);
         }
 
-        //Modelulo 4 Ejercicios
-        //1
+        //--------------------------------
+        // MÓDULO 4: Funciones
+        //--------------------------------
+
+        // 1. Función saludarUsuario
         function saludarUsuario(a) {
             console.log("Hola " , a);
         }
 
-        let saludar = saludarUsuario("Fernando");
+        saludarUsuario("Fernando");
 
-        //2
+        // 2. Función multiplicar
         function multiplicar(a,b) {
             return a*b;
         }
 
         console.log(multiplicar(2,3));
 
-        //3
-
-        let esPar = (n) =>{
-        if(n%2==0)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        // 3. Función flecha esPar
+        let esPar = (n) => {
+            return n % 2 == 0;
         }
 
-        let resp= console.log(esPar(3));
+        console.log(esPar(3));
 
-        //4
+        // 4. Función anónima
         let funcionAnonima = function () {
-            console.log("Funcion anonima ejecutada");
+            console.log("Función anónima ejecutada");
         }
 
         funcionAnonima();
+
+        //--------------------------------
+        // MÓDULO 5: Arrays y Objetos
+        //--------------------------------
+
+        // 1. Array colores
+        let colores = ["amarillo","rojo","azul"];
+
+        function imprimirColores (){
+            for (let i = 0; i < colores.length; i++) {
+                console.log(colores[i]);
+            }
+        }
+
+        imprimirColores();
+
+        colores.push("naranja");
+        imprimirColores();
+
+        colores.pop();
+        imprimirColores();
+
+        colores.shift();
+        imprimirColores();
+
+        // 2. Objeto auto
+        let auto = {
+            marca : "Toyota",
+            modelo : "Corolla",
+            año : 2020,
+        }
+
+        console.log(auto);
+        console.log(auto.año);
+
+        // 3. Recorrer auto con for...in
+        for (let propiedad in auto) {
+            console.log(propiedad + " : " + auto[propiedad]);
+        }
+
+        // 4. Array de objetos personas
+        let personas = [
+            { nombre: "Fernando", edad: 23 },
+            { nombre: "Ana", edad: 25 },
+            { nombre: "Carlos", edad: 30 }
+        ];
+
+        personas.forEach(persona => {
+            console.log(persona.nombre);
+        });
 
     </script>
 </body>

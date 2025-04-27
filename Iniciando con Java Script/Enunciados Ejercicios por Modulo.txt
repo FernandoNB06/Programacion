@@ -1,0 +1,50 @@
+
+# 📋 Enunciado resumen para practicar en el futuro
+
+Aquí te dejo el **enunciado resumido de cada módulo** para que puedas practicarlo cuando quieras:
+
+---
+
+## MÓDULO 1: **Introducción**
+- Usa `console.log` para imprimir "Hola Mundo" en la consola del navegador.
+- Crear un archivo `.html` básico con un pequeño `<script>` que imprima un mensaje.
+
+---
+
+## MÓDULO 2: **Primeros pasos**
+- Declarar variables de distintos tipos (string, number, boolean).
+- Sumar dos números y mostrar el resultado.
+- Comparar dos números y guardar el resultado en una variable.
+- Crear un array de frutas y un objeto de un celular.
+- Imprimir todos los valores en consola.
+
+---
+
+## MÓDULO 3: **Control de flujo**
+- Crear un `if-else` que diga si una persona es mayor o menor de edad.
+- Usar un `switch` que imprima qué día de la semana es según un número.
+- Crear un `for` que imprima los números del 1 al 10.
+- Crear un `while` que imprima del 5 al 1.
+- Crear un `for` que imprima del 0 al 5, **saltando** el número 3 con `continue`.
+
+---
+
+## MÓDULO 4: **Funciones**
+- Crear una función `saludarUsuario` que reciba un nombre y lo imprima.
+- Crear una función `multiplicar` que retorne el producto de dos números.
+- Crear una función flecha `esPar` que devuelva `true` si un número es par.
+- Crear una función anónima que imprima un mensaje.
+- (Extra) Crear un callback simple que procese un mensaje (esto lo dejaste para después).
+
+---
+
+## MÓDULO 5: **Arrays y Objetos**
+- Crear un array de colores, agregar/quitar elementos, y recorrerlo con `for`.
+- Crear un objeto `auto` y acceder a sus propiedades.
+- Usar `for...in` para recorrer el objeto `auto`.
+- Crear un array de objetos `personas` y recorrerlo imprimiendo los nombres.
+
+---
+
+¿Te gustaría que además te arme una **versión imprimible** de este resumen (tipo en formato lista para repasar)? 🚀  
+Así lo puedes guardar si quieres. 📄✨
