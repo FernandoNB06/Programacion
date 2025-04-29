@@ -1,4 +1,4 @@
-Polimorfismo: Es la cualidad que tienenlos objetos para actuar de diferente manera ante el mismo mensaje
+Polimorfismo: Es la cualidad que tienen los objetos para actuar de diferente manera ante el mismo mensaje
 
 ejemplo-objetos:
 Persona
