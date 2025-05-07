@@ -1,0 +1,10 @@
+Se desea desarrollar un sistema en C++ que permita gestionar 
+la información de personas dentro de una universidad, 
+clasificadas en tres tipos: estudiantes, docentes y administrativos.
+Cada clase debe contener atributos relevantes como CI, nombre y otros
+específicos según el rol (por ejemplo, carrera y promedio para estudiantes,
+materias y salario para docentes, y cargo y departamento para administrativos).
+Se deben implementar métodos para mostrar los datos y modificar ciertos atributos,
+como asignar salario o agregar materias. En el programa principal (`main`), se deben
+crear al menos un objeto de cada tipo y mostrar sus datos en pantalla para comprobar 
+el correcto funcionamiento del sistema.
