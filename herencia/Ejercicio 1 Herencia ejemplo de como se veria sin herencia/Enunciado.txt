@@ -1,6 +1,6 @@
 Se desea desarrollar un sistema en C++ que permita gestionar 
 la información de personas dentro de una universidad, 
-clasificadas en tres tipos: estudiantes, docentes y administrativos.
+clasificadas en tres tipos: estudiante, docente y administrativo.
 Cada clase debe contener atributos relevantes como CI, nombre y otros
 específicos según el rol (por ejemplo, carrera y promedio para estudiantes,
 materias y salario para docentes, y cargo y departamento para administrativos).

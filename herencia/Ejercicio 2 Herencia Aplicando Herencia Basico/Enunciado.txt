@@ -1,0 +1,8 @@
+Se desea implementar un sistema en C++ que utilice 
+herencia para representar personas dentro de una institución 
+educativa. La clase base `Persona` debe almacenar el CI, nombre y género. 
+A partir de ella, se deben derivar las clases `Estudiante`, 
+que añade los atributos carrera y promedio, y `Docente`, 
+que añade los atributos departamento, profesión y salario. 
+Cada clase debe contar con un método para mostrar sus datos,
+y en el programa principal se deben crear objetos de ambas clases e imprimir su información utilizando dichos métodos.
