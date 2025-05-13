@@ -1,0 +1,43 @@
+📝 Enunciado completo (versión final del proyecto)
+
+Se desea desarrollar un sistema en C++ que gestione la información académica y administrativa de una universidad, 
+aplicando los principios de la programación orientada a objetos, en particular herencia, composición, polimorfismo y modularidad.
+
+Para ello, se debe implementar una jerarquía de clases con la clase base Persona, 
+que contiene atributos comunes como CI, nombre y género. De esta clase se derivan:
+
+*Estudiante, que añade los atributos carrera y promedio.
+
+*Empleado, que añade el atributo salario, y de la cual se derivan:
+
+	*Docente, que incluye departamento, profesión y una lista de hasta tres materias.
+
+	*Administrativo, que incluye departamento y cargo.
+
+Cada clase debe contar con métodos apropiados para mostrar sus datos, modificarlos y consultar su información.
+
+Además, se deben implementar las clases Materia (con sigla y referencia a un docente) 
+y ListaMaterias, ListaEstudiantes, ListaDocentes y, si corresponde, ListaAdministrativos, que administran los objetos dinámicamente.
+
+Finalmente, se debe implementar una clase Universidad que contenga las listas y funciones necesarias para mostrar un menú interactivo con las siguientes opciones, 
+como mínimo:
+
+Registrar estudiante
+
+Registrar docente
+
+Registrar administrativo
+
+Registrar materia
+
+Asignar docente a materia
+
+Asignar materia a docente ✅
+
+Mostrar materias con su docente
+
+Mostrar estudiantes
+
+Mostrar docentes
+
+Mostrar administrativos

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Universidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Universidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaMaterias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ListaMaterias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaMaterias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ListaMaterias.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaDocentes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ListaDocentes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Universidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Universidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaDocentes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ListaDocentes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Docente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Docente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Docente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Docente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaAdministrativos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ListaAdministrativos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaAdministrativos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ListaAdministrativos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaMaterias.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaMaterias.cpp",
+              "RelativeDocumentMoniker": "Project1\\ListaMaterias.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaMaterias.cpp",
+              "RelativeToolTip": "Project1\\ListaMaterias.cpp",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T16:48:07.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaMaterias.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaMaterias.h",
+              "RelativeDocumentMoniker": "Project1\\ListaMaterias.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaMaterias.h",
+              "RelativeToolTip": "Project1\\ListaMaterias.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T16:47:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Materia.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Materia.cpp",
+              "RelativeDocumentMoniker": "Project1\\Materia.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Materia.cpp",
+              "RelativeToolTip": "Project1\\Materia.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T16:47:29.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Materia.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Materia.h",
+              "RelativeDocumentMoniker": "Project1\\Materia.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Materia.h",
+              "RelativeToolTip": "Project1\\Materia.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T16:47:18.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaDocentes.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaDocentes.cpp",
+              "RelativeDocumentMoniker": "Project1\\ListaDocentes.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaDocentes.cpp",
+              "RelativeToolTip": "Project1\\ListaDocentes.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwDgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T16:44:56.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Docente.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Docente.cpp",
+              "RelativeDocumentMoniker": "Project1\\Docente.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Docente.cpp",
+              "RelativeToolTip": "Project1\\Docente.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwDEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T16:44:17.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Universidad.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Universidad.cpp",
+              "RelativeDocumentMoniker": "Project1\\Universidad.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Universidad.cpp",
+              "RelativeToolTip": "Project1\\Universidad.cpp",
+              "ViewState": "AgIAACoAAACAmZmZmZkdwHsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T05:30:29.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Docente.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Docente.h",
+              "RelativeDocumentMoniker": "Project1\\Docente.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Docente.h",
+              "RelativeToolTip": "Project1\\Docente.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T16:41:52.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListaDocentes.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaDocentes.h",
+              "RelativeDocumentMoniker": "Project1\\ListaDocentes.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaDocentes.h",
+              "RelativeToolTip": "Project1\\ListaDocentes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T16:40:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Universidad.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Universidad.h",
+              "RelativeDocumentMoniker": "Project1\\Universidad.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Universidad.h",
+              "RelativeToolTip": "Project1\\Universidad.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T05:05:57.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Source.cpp",
+              "RelativeDocumentMoniker": "Project1\\Source.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\Source.cpp",
+              "RelativeToolTip": "Project1\\Source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T04:59:33.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaAdministrativos.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaAdministrativos.cpp",
+              "RelativeDocumentMoniker": "Project1\\ListaAdministrativos.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaAdministrativos.cpp",
+              "RelativeToolTip": "Project1\\ListaAdministrativos.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T20:55:15.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaAdministrativos.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaAdministrativos.h",
+              "RelativeDocumentMoniker": "Project1\\ListaAdministrativos.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\borrarrar\\Project1\\Project1\\ListaAdministrativos.h",
+              "RelativeToolTip": "Project1\\ListaAdministrativos.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T20:55:03.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
