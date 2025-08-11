@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Empleado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Empleado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Docente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Administrativo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Administrativo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Universidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Universidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Docente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Docente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EFB5D3B8-209E-4D88-AA04-9AC07055BB01}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -62,11 +74,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Estudiante.h",
+              "RelativeDocumentMoniker": "Project1\\Estudiante.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Estudiante.h",
+              "RelativeToolTip": "Project1\\Estudiante.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T01:14:06.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Empleado.h",
+              "RelativeDocumentMoniker": "Project1\\Empleado.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Empleado.h",
+              "RelativeToolTip": "Project1\\Empleado.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T01:13:59.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrativo.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Administrativo.h",
+              "RelativeDocumentMoniker": "Project1\\Administrativo.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Administrativo.h",
+              "RelativeToolTip": "Project1\\Administrativo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-17T01:13:49.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaMaterias.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaMaterias.h",
+              "RelativeDocumentMoniker": "Project1\\ListaMaterias.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaMaterias.h",
+              "RelativeToolTip": "Project1\\ListaMaterias.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T16:47:39.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Materia.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Materia.cpp",
+              "RelativeDocumentMoniker": "Project1\\Materia.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Materia.cpp",
+              "RelativeToolTip": "Project1\\Materia.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T16:47:29.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Materia.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Materia.h",
+              "RelativeDocumentMoniker": "Project1\\Materia.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Materia.h",
+              "RelativeToolTip": "Project1\\Materia.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T16:47:18.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListaDocentes.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaDocentes.cpp",
+              "RelativeDocumentMoniker": "Project1\\ListaDocentes.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaDocentes.cpp",
+              "RelativeToolTip": "Project1\\ListaDocentes.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwDgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T16:44:56.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Docente.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.cpp",
+              "RelativeDocumentMoniker": "Project1\\Docente.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.cpp",
+              "RelativeToolTip": "Project1\\Docente.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAlwDEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T16:44:17.145Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Docente.h",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.h",
+              "RelativeDocumentMoniker": "Project1\\Docente.h",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.h",
+              "RelativeToolTip": "Project1\\Docente.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T16:41:52.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ListaMaterias.cpp",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaMaterias.cpp",
               "RelativeDocumentMoniker": "Project1\\ListaMaterias.cpp",
@@ -79,91 +203,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ListaMaterias.h",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaMaterias.h",
-              "RelativeDocumentMoniker": "Project1\\ListaMaterias.h",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaMaterias.h",
-              "RelativeToolTip": "Project1\\ListaMaterias.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-13T16:47:39.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Materia.cpp",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Materia.cpp",
-              "RelativeDocumentMoniker": "Project1\\Materia.cpp",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Materia.cpp",
-              "RelativeToolTip": "Project1\\Materia.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAlwCEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-13T16:47:29.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Materia.h",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Materia.h",
-              "RelativeDocumentMoniker": "Project1\\Materia.h",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Materia.h",
-              "RelativeToolTip": "Project1\\Materia.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-13T16:47:18.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListaDocentes.cpp",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaDocentes.cpp",
-              "RelativeDocumentMoniker": "Project1\\ListaDocentes.cpp",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaDocentes.cpp",
-              "RelativeToolTip": "Project1\\ListaDocentes.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAAAlwDgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-13T16:44:56.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Docente.cpp",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.cpp",
-              "RelativeDocumentMoniker": "Project1\\Docente.cpp",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.cpp",
-              "RelativeToolTip": "Project1\\Docente.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAAlwDEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-13T16:44:17.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Universidad.cpp",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Universidad.cpp",
               "RelativeDocumentMoniker": "Project1\\Universidad.cpp",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Universidad.cpp",
               "RelativeToolTip": "Project1\\Universidad.cpp",
-              "ViewState": "AgIAAGIAAACAZmZmZmYswHsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-13T05:30:29.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Docente.h",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.h",
-              "RelativeDocumentMoniker": "Project1\\Docente.h",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Docente.h",
-              "RelativeToolTip": "Project1\\Docente.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-13T16:41:52.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ListaDocentes.h",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaDocentes.h",
               "RelativeDocumentMoniker": "Project1\\ListaDocentes.h",
@@ -175,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Universidad.h",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Universidad.h",
               "RelativeDocumentMoniker": "Project1\\Universidad.h",
@@ -187,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\Source.cpp",
               "RelativeDocumentMoniker": "Project1\\Source.cpp",
@@ -199,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ListaAdministrativos.cpp",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaAdministrativos.cpp",
               "RelativeDocumentMoniker": "Project1\\ListaAdministrativos.cpp",
@@ -211,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ListaAdministrativos.h",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Programacion\\herencia\\Ejercicio 3 Herencia \u002B Listas y Materia Continuacion al Ejercicio 2\\Project1\\Project1\\ListaAdministrativos.h",
               "RelativeDocumentMoniker": "Project1\\ListaAdministrativos.h",

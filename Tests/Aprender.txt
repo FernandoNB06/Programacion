@@ -1,0 +1,25 @@
+
+-Es el bloque donde pones el código que podría fallar.
+
+try {
+    // Código riesgoso
+}
+
+
+-Es el bloque que atrapa la excepción si algo salió mal en el try
+
+catch (const tipo& e) {
+    // Código para manejar el error
+}
+
+-Es la palabra que lanza la excepción
+
+throw tipo("mensaje de error");
+
+
+invalid_argument
+👉 Se usa cuando el dato que se da como argumento no es válido (está mal desde el principio).
+
+
+runtime_error
+👉 Se usa cuando todo parece bien con los argumentos, pero algo falla mientras se ejecuta (un error interno o de estado).
